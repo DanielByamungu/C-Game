@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/PROG2370/Final Project/SnakeGame/SnakeGame/SnakeGame/Content/Fonts/TextFont.spritefont</SourceFile>
+  <SourceTime>2020-12-13T19:57:41.5468623-05:00</SourceTime>
+  <DestFile>C:/PROG2370/Final Project/SnakeGame/SnakeGame/SnakeGame/Content/bin/Windows/Fonts/TextFont.xnb</DestFile>
+  <DestTime>2020-12-13T23:50:13.2036754-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

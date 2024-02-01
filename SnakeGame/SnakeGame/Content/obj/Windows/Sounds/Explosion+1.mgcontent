@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/PROG2370/Final Project/SnakeGame/SnakeGame/SnakeGame/Content/Sounds/Explosion+1.wav</SourceFile>
+  <SourceTime>2020-12-13T20:24:03.3336544-05:00</SourceTime>
+  <DestFile>C:/PROG2370/Final Project/SnakeGame/SnakeGame/SnakeGame/Content/bin/Windows/Sounds/Explosion+1.xnb</DestFile>
+  <DestTime>2020-12-13T23:50:13.6875947-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

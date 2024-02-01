@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/PROG2370/Final Project/SnakeGame/SnakeGame/SnakeGame/Content/Fonts/gameOverFont.spritefont</File>
+    <File>C:/PROG2370/Final Project/SnakeGame/SnakeGame/SnakeGame/Content/Fonts/highlightFont.spritefont</File>
+    <File>C:/PROG2370/Final Project/SnakeGame/SnakeGame/SnakeGame/Content/Fonts/regularFont.spritefont</File>
+    <File>C:/PROG2370/Final Project/SnakeGame/SnakeGame/SnakeGame/Content/Fonts/TextFont.spritefont</File>
+    <File>C:/PROG2370/Final Project/SnakeGame/SnakeGame/SnakeGame/Content/Images/blackLine.png</File>
+    <File>C:/PROG2370/Final Project/SnakeGame/SnakeGame/SnakeGame/Content/Images/explosion.png</File>
+    <File>C:/PROG2370/Final Project/SnakeGame/SnakeGame/SnakeGame/Content/Images/snakeBody.png</File>
+    <File>C:/PROG2370/Final Project/SnakeGame/SnakeGame/SnakeGame/Content/Images/snakeFood.png</File>
+    <File>C:/PROG2370/Final Project/SnakeGame/SnakeGame/SnakeGame/Content/Images/snakeHead.png</File>
+    <File>C:/PROG2370/Final Project/SnakeGame/SnakeGame/SnakeGame/Content/Sounds/Explosion+1.wav</File>
+    <File>C:/PROG2370/Final Project/SnakeGame/SnakeGame/SnakeGame/Content/Sounds/gameMusic.mp3</File>
+    <File>C:/PROG2370/Final Project/SnakeGame/SnakeGame/SnakeGame/Content/Sounds/snakeBite.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File>Fonts/HighlightFont.spritefont</File>
+    <File>Fonts/RegularFont.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

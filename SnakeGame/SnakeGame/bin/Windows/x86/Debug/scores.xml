@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Score>
+    <PlayerName>Daniel</PlayerName>
+    <Value>100</Value>
+  </Score>
+  <Score>
+    <PlayerName />
+    <Value>18</Value>
+  </Score>
+  <Score>
+    <PlayerName />
+    <Value>16</Value>
+  </Score>
+  <Score>
+    <PlayerName />
+    <Value>16</Value>
+  </Score>
+  <Score>
+    <PlayerName> stefan</PlayerName>
+    <Value>10</Value>
+  </Score>
+  <Score>
+    <PlayerName />
+    <Value>9</Value>
+  </Score>
+  <Score>
+    <PlayerName />
+    <Value>9</Value>
+  </Score>
+  <Score>
+    <PlayerName />
+    <Value>9</Value>
+  </Score>
+  <Score>
+    <PlayerName />
+    <Value>8</Value>
+  </Score>
+  <Score>
+    <PlayerName />
+    <Value>8</Value>
+  </Score>
+  <Score>
+    <PlayerName />
+    <Value>8</Value>
+  </Score>
+  <Score>
+    <PlayerName />
+    <Value>8</Value>
+  </Score>
+  <Score>
+    <PlayerName />
+    <Value>8</Value>
+  </Score>
+  <Score>
+    <PlayerName />
+    <Value>7</Value>
+  </Score>
+  <Score>
+    <PlayerName />
+    <Value>7</Value>
+  </Score>
+  <Score>
+    <PlayerName />
+    <Value>7</Value>
+  </Score>
+  <Score>
+    <PlayerName>Daniel</PlayerName>
+    <Value>6</Value>
+  </Score>
+  <Score>
+    <PlayerName>Daniel</PlayerName>
+    <Value>6</Value>
+  </Score>
+  <Score>
+    <PlayerName />
+    <Value>6</Value>
+  </Score>
+  <Score>
+    <PlayerName />
+    <Value>6</Value>
+  </Score>
+  <Score>
+    <PlayerName>Daniel</PlayerName>
+    <Value>4</Value>
+  </Score>
+  <Score>
+    <PlayerName> Stefan</PlayerName>
+    <Value>4</Value>
+  </Score>
+  <Score>
+    <PlayerName>Daniel</PlayerName>
+    <Value>3</Value>
+  </Score>
+  <Score>
+    <PlayerName />
+    <Value>3</Value>
+  </Score>
+  <Score>
+    <PlayerName>Daniel</PlayerName>
+    <Value>2</Value>
+  </Score>
+  <Score>
+    <PlayerName> stefan</PlayerName>
+    <Value>0</Value>
+  </Score>
+</ArrayOfScore>
